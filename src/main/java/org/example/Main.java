@@ -51,5 +51,7 @@ public class Main {
       user = dataFileReader.next(user);
       System.out.println(user);
     }
+
+    System.out.println("Test github push");
   }
 }
