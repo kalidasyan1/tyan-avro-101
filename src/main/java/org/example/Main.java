@@ -54,5 +54,6 @@ public class Main {
 
     System.out.println("Test github push");
     System.out.println("Test github push 2");
+    System.out.println("Test github push 3");
   }
 }
